@@ -21,10 +21,7 @@ import javax.swing.JComboBox;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author felip
- */
+
 public class TelaProdutos extends javax.swing.JFrame {
 
     /**
