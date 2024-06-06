@@ -9,10 +9,7 @@ import com.mycompany.lojacalcados.utils.Validador;
 import com.mycompany.lojacalcados.models.ProdutoTamanho;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author felip
- */
+
 public class TelaProdutoTamanho extends javax.swing.JFrame {
 
     /**
