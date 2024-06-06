@@ -6,10 +6,7 @@ package com.mycompany.lojacalcados.views;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author felip
- */
+
 public class TelaInicial extends javax.swing.JFrame {
 
     /**
