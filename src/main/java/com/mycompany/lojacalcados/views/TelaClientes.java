@@ -17,10 +17,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author felip
- */
+
 public class TelaClientes extends javax.swing.JFrame {
     
     Cliente objalterar=null;
